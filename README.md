@@ -8,8 +8,8 @@ This project demonstrates a simple microservices setup using Docker Compose, Ngi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/IamGaurav-jav/DevOpsTask.git
+   cd Assignment
    ```
 
 2. **Build and start all services**
